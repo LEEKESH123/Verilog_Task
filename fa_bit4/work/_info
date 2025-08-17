@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Dell/Desktop/Gvim/task/fa_bit4
+vfa_4bit
+Z1 !s110 1755438015
+!i10b 1
+!s100 bkJ5?2;=k:8U87OdYOTmQ1
+IL9fGWWbEFi<ed9i074UUI2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1755438008
+8fa_4bit.v
+Ffa_4bit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1755438015.000000
+Z5 !s107 fa_4bit.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 dFO=Tch@VzZOXe:VDD8k<2
+Im3SJF_Yij^7B[6@LH78WP2
+R2
+R0
+w1755432124
+8tb.v
+Ftb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
